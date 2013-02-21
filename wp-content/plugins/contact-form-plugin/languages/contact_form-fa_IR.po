@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: contact_form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-07 16:01+0300\n"
+"PO-Revision-Date: 2013-02-07 16:01+0300\n"
+"Last-Translator: \n"
+"Language-Team: AlirezaJamali <me@alirezaJamali.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: contact_form.php:78
+msgid "Activated plugins"
+msgstr "افزونه های فعال"
+
+#: contact_form.php:80
+#: contact_form.php:88
+#: contact_form.php:96
+msgid "Read more"
+msgstr "متن کامل"
+
+#: contact_form.php:80
+#: contact_form.php:1066
+#: contact_form.php:1075
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: contact_form.php:86
+msgid "Installed plugins"
+msgstr "افزونه های نصب شده"
+
+#: contact_form.php:94
+msgid "Recommended plugins"
+msgstr "افزونه های پیشنهادی"
+
+#: contact_form.php:96
+msgid "Download"
+msgstr "دانلود"
+
+#: contact_form.php:96
+#, php-format
+msgid "Install %s"
+msgstr "نصب  %s"
+
+#: contact_form.php:96
+msgid "Install now from wordpress.org"
+msgstr "هم اکنون نصب کنید  wordpress.org"
+
+#: contact_form.php:98
+msgid "If you have any questions, please contact us via plugin@bestwebsoft.com or fill in our contact form on our site"
+msgstr "چنانچه سئوالی دارید لطفا از طریق رایانامه plugin@bestwebsoft.com یا فرم ارتباطی سایت با با تماس بگیرید."
+
+#: contact_form.php:110
+#: contact_form.php:403
+msgid "Contact Form Options"
+msgstr "گزینه های فرم ارتباط با مدیریت"
+
+#: contact_form.php:110
+msgid "Contact Form"
+msgstr "فرم ارتباط با مدیریت"
+
+#: contact_form.php:147
+#: contact_form.php:537
+#: contact_form.php:557
+msgid "Name:"
+msgstr "نام "
+
+#: contact_form.php:148
+#: contact_form.php:538
+#: contact_form.php:558
+msgid "Email Address:"
+msgstr "رایانامه "
+
+#: contact_form.php:149
+#: contact_form.php:539
+#: contact_form.php:559
+msgid "Phone number:"
+msgstr "شماره تماس "
+
+#: contact_form.php:150
+#: contact_form.php:540
+#: contact_form.php:560
+msgid "Subject:"
+msgstr "موضوع "
+
+#: contact_form.php:151
+#: contact_form.php:541
+#: contact_form.php:561
+msgid "Message:"
+msgstr "متن پیام "
+
+#: contact_form.php:152
+#: contact_form.php:542
+#: contact_form.php:562
+msgid "Attachment:"
+msgstr "پیوست "
+
+#: contact_form.php:153
+#: contact_form.php:543
+#: contact_form.php:563
+msgid "Submit"
+msgstr "ارسال"
+
+#: contact_form.php:154
+msgid "Your name is required."
+msgstr "نام ضروری می باشد. "
+
+#: contact_form.php:155
+msgid "A proper e-mail address is required."
+msgstr "رایانامه ضروری می باشد. "
+
+#: contact_form.php:156
+msgid "Subject is required."
+msgstr "عنوان ضروری می باشد. "
+
+#: contact_form.php:157
+msgid "Message text is required."
+msgstr "متن پیام ضروری می باشد. "
+
+#: contact_form.php:158
+#, fuzzy
+msgid "Phone number is required."
+msgstr "نام ضروری می باشد. "
+
+#: contact_form.php:159
+msgid "File format is not valid."
+msgstr "فایل آسیب دیده می باشد.  "
+
+#: contact_form.php:160
+msgid "Please fill out the CAPTCHA."
+msgstr "لطفا کد امنیتی را وارد کنید. "
+
+#: contact_form.php:161
+msgid "Please make corrections below and try again."
+msgstr "لطفا پس از انجام اصلاحات دوباره ارسال نمایید. "
+
+#: contact_form.php:163
+msgid "Thank you for contacting us."
+msgstr "قدردان همیاری شما هستیم."
+
+#: contact_form.php:358
+msgid "If the 'Redirect to page' option is selected then the URL field should be in the following format"
+msgstr "اگر گزینه \"انتقال به\" انتخاب شود بایستی فیلد مربوط به تارنما را تکمیل کنید"
+
+#: contact_form.php:367
+msgid "Such user does not exist. Settings are not saved."
+msgstr "این کاربر وجود ندارد، تغییرات ثبت نشد."
+
+#: contact_form.php:372
+msgid "Please enter a valid email address. Settings are not saved."
+msgstr "لطفا از صحت رایانامه اطمینان حاصل فرمایید، تغییرات ثبت نشد."
+
+#: contact_form.php:378
+#, fuzzy
+msgid "Please enter a valid email address in the 'FROM' field. Settings are not saved."
+msgstr "لطفا از صحت رایانامه اطمینان حاصل فرمایید، تغییرات ثبت نشد."
+
+#: contact_form.php:383
+msgid "Options saved."
+msgstr "تغییرات ثبت شد."
+
+#: contact_form.php:408
+msgid "If you would like to add the Contact Form to your website, just copy and paste this shortcode to your post or page or widget:"
+msgstr "اگر مایل به استفاده از فرم ارتباط با مدیریت می باشید، کد را در صفحه یا نوشته دلخواه قرار دهید : "
+
+#: contact_form.php:409
+msgid "If you leave the fields empty, the messages will be sent to the email address specified during registration."
+msgstr "اگر اطلاعات درخواستی زیر تکمیل نشود پیام به آدرس ثبت نام ارسال خواهد شد."
+
+#: contact_form.php:413
+msgid "The user's email address:"
+msgstr "از رایانامه کاربران استفاده کن : "
+
+#: contact_form.php:417
+msgid "Create a username"
+msgstr "انتخاب شناسه کاربری"
+
+#: contact_form.php:422
+msgid "Enter a username of the person who should get the messages from the contact form."
+msgstr "نام کاربری را که پیام را دریافت می کند مشخص کنید. "
+
+#: contact_form.php:426
+msgid "Use this email address:"
+msgstr "استفاده از این رایانامه : "
+
+#: contact_form.php:429
+msgid "Enter the email address you want the messages forwarded to."
+msgstr "رایانامه ای را برای دریافت پیام مشخص کنید."
+
+#: contact_form.php:433
+msgid "Additional options"
+msgstr "گزینه های بیشتر"
+
+#: contact_form.php:436
+msgid "Display Attachment block"
+msgstr "نمایش گزینه پیوست"
+
+#: contact_form.php:438
+msgid "Users can attach the following file formats"
+msgstr "کاربران قادر به ارسال این نوع فایلها می باشند"
+
+#: contact_form.php:442
+msgid "Display Attachment tips"
+msgstr "نمایش توضیحات پیوست"
+
+#: contact_form.php:444
+msgid "Display tips below the Attachment block"
+msgstr "نمایش توضیحات بعد از پیوست"
+
+#: contact_form.php:448
+msgid "Display Send me a copy block"
+msgstr "نمایش گزینه \"ارسال یک نسخه برای من\""
+
+#: contact_form.php:454
+msgid "What to use?"
+msgstr "چه استفاده ای؟"
+
+#: contact_form.php:457
+msgid "Wp-mail"
+msgstr "افزونه ارسال رایانامه Wp-mail"
+
+#: contact_form.php:458
+msgid "You can use the wp_mail function for mailing"
+msgstr "جهت ارسال رایانامه افزونه Wp-mail نصب کنید"
+
+#: contact_form.php:464
+msgid "Mail"
+msgstr "رایانامه"
+
+#: contact_form.php:465
+msgid "To send mail you can use the php mail function"
+msgstr "برای ارسال رایانامه می توانید از امکانات PHP استفاده کنید"
+
+#: contact_form.php:469
+#, fuzzy
+msgid "Change text of the 'FROM' field"
+msgstr "از طریق موارد فرم ارتباط با مدیریت تغییر دهید"
+
+#: contact_form.php:475
+msgid "Enter the email address in the 'From' field"
+msgstr ""
+
+#: contact_form.php:477
+msgid "The email address of the user who fills the form is going to be used in the field 'From'."
+msgstr ""
+
+#: contact_form.php:479
+msgid "This email address will be used in the 'From' field."
+msgstr ""
+
+#: contact_form.php:483
+msgid "Display phone field"
+msgstr "نمایش فیلد شماره تماس"
+
+#: contact_form.php:489
+msgid "Required fields"
+msgstr ""
+
+#: contact_form.php:491
+#: contact_form.php:955
+msgid "Name"
+msgstr "نام "
+
+#: contact_form.php:492
+#, fuzzy
+msgid "E-Mail Address"
+msgstr "رایانامه "
+
+#: contact_form.php:493
+#: contact_form.php:963
+msgid "Phone"
+msgstr "شماره تماس"
+
+#: contact_form.php:494
+#: contact_form.php:966
+msgid "Subject"
+msgstr "موضوع "
+
+#: contact_form.php:495
+#: contact_form.php:969
+msgid "Message"
+msgstr "متن پیام "
+
+#: contact_form.php:499
+msgid "Display additional info in email"
+msgstr "اطلاعات بیشتر را در رایانامه نمایش بده"
+
+#: contact_form.php:504
+#: contact_form.php:927
+msgid "Sent from (ip address)"
+msgstr "ارسال از سوی (ip address)"
+
+#: contact_form.php:505
+#: contact_form.php:932
+msgid "Date/Time"
+msgstr "روز / زمان"
+
+#: contact_form.php:506
+#: contact_form.php:937
+msgid "Sent from (referer)"
+msgstr "دریافت از سوی (referer)"
+
+#: contact_form.php:507
+#: contact_form.php:942
+msgid "Using (user agent)"
+msgstr "استفاده از (user agent)"
+
+#: contact_form.php:511
+msgid "Language settings for the field names in the form"
+msgstr ""
+
+#: contact_form.php:520
+msgid "Add language"
+msgstr ""
+
+#: contact_form.php:524
+#, fuzzy
+msgid "Change the names of the contact form fields and error messages"
+msgstr "تغییر عناوین فیلدهای فرم تماس با مدیریت "
+
+#: contact_form.php:529
+#: contact_form.php:582
+msgid "English"
+msgstr ""
+
+#: contact_form.php:544
+#: contact_form.php:564
+msgid "Error message for the Name field"
+msgstr ""
+
+#: contact_form.php:545
+#: contact_form.php:565
+msgid "Error message for the Email field"
+msgstr ""
+
+#: contact_form.php:546
+#: contact_form.php:566
+msgid "Error message for the Phone field"
+msgstr ""
+
+#: contact_form.php:547
+#: contact_form.php:567
+msgid "Error message for the Subject field"
+msgstr ""
+
+#: contact_form.php:548
+#: contact_form.php:568
+msgid "Error message for the Message field"
+msgstr ""
+
+#: contact_form.php:549
+#: contact_form.php:569
+msgid "Error message for the Attachment field"
+msgstr ""
+
+#: contact_form.php:550
+#: contact_form.php:570
+msgid "Error message for the Captcha field"
+msgstr ""
+
+#: contact_form.php:551
+#: contact_form.php:571
+msgid "Error message for the whole form"
+msgstr ""
+
+#: contact_form.php:552
+#: contact_form.php:572
+#: contact_form.php:591
+#: contact_form.php:597
+msgid "Use shortcode"
+msgstr ""
+
+#: contact_form.php:552
+#: contact_form.php:572
+#: contact_form.php:591
+#: contact_form.php:597
+msgid "for this language"
+msgstr ""
+
+#: contact_form.php:579
+msgid "Action after email is sent"
+msgstr "عکس العمل پس از ارسال"
+
+#: contact_form.php:581
+msgid "Display text"
+msgstr "نمایش متن"
+
+#: contact_form.php:590
+#: contact_form.php:596
+msgid "Text"
+msgstr "متن"
+
+#: contact_form.php:603
+msgid "Redirect to the page"
+msgstr "انتقال به "
+
+#: contact_form.php:604
+msgid "Url"
+msgstr "تارنما"
+
+#: contact_form.php:609
+msgid "Save Changes"
+msgstr "ثبت تغییرات"
+
+#: contact_form.php:648
+msgid "Sorry, email message could not be delivered."
+msgstr "امکان ارسال رایانامه برای شما وجود ندارد."
+
+#: contact_form.php:718
+msgid "You can attach the following file formats"
+msgstr "می توانید فایل با این فرمت ارسال فرمایید "
+
+#: contact_form.php:726
+msgid "Send me a copy"
+msgstr "به رایانامه من ارسال شود"
+
+#: contact_form.php:950
+msgid "Contact from"
+msgstr "فرم ارتباط با مدیریت"
+
+#: contact_form.php:958
+msgid "Email"
+msgstr "رایانامه "
+
+#: contact_form.php:972
+msgid "Site"
+msgstr "سایت"
+
+#: contact_form.php:1023
+msgid "If you can see this MIME, it means that the MIME type is not supported by your email client!"
+msgstr "اگر می توانید این MIME کاربران را ببینید، نوع آن قابل پذیرش نیست!"
+
+#: contact_form.php:1076
+msgid "FAQ"
+msgstr "سئوالات مطرح"
+
+#: contact_form.php:1077
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: contact_form.php:1123
+msgid "Are you sure that you want to delete this language data?"
+msgstr ""
+
+#~ msgid "E-Mail Addresse:"
+#~ msgstr "Indirizzo e-mail:"
+#~ msgid "Install Now"
+#~ msgstr "Installa Ora"
+#~ msgid "BWS Plugins"
+#~ msgstr "BWS Plugins"
+

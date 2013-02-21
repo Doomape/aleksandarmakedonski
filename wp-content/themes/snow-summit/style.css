@@ -1071,6 +1071,7 @@ img.aligncenter {
 
 #comments {
 	word-wrap: break-word;
+	display:none;
 }
 
 #comments h3 {

@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: contact_form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-07 16:02+0300\n"
+"PO-Revision-Date: 2013-02-07 16:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: Team Outshine <ash.pr@outshinesolutions.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi_IN\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: contact_form.php:78
+msgid "Activated plugins"
+msgstr "सक्रिय प्लगिन"
+
+#: contact_form.php:80
+#: contact_form.php:88
+#: contact_form.php:96
+msgid "Read more"
+msgstr "अधिक पढ़ें"
+
+#: contact_form.php:80
+#: contact_form.php:1066
+#: contact_form.php:1075
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: contact_form.php:86
+msgid "Installed plugins"
+msgstr "स्थापित plugins"
+
+#: contact_form.php:94
+msgid "Recommended plugins"
+msgstr "अनुशंसित प्लगिन"
+
+#: contact_form.php:96
+msgid "Download"
+msgstr "डाउनलोड"
+
+#: contact_form.php:96
+#, php-format
+msgid "Install %s"
+msgstr "स्थापित%s"
+
+#: contact_form.php:96
+msgid "Install now from wordpress.org"
+msgstr "Wordpress.org से अब स्थापित"
+
+#: contact_form.php:98
+msgid "If you have any questions, please contact us via plugin@bestwebsoft.com or fill in our contact form on our site"
+msgstr "यदि आप कोई प्रश्न हैं, हमें plugin@bestwebsoft.com के माध्यम से संपर्क करें या हमारी साइट पर हमारे संपर्क फार्म में भरें"
+
+#: contact_form.php:110
+#: contact_form.php:403
+msgid "Contact Form Options"
+msgstr "संपर्क प्रपत्र विकल्प"
+
+#: contact_form.php:110
+msgid "Contact Form"
+msgstr "संपर्क प्रपत्र"
+
+#: contact_form.php:147
+#: contact_form.php:537
+#: contact_form.php:557
+msgid "Name:"
+msgstr "नाम:"
+
+#: contact_form.php:148
+#: contact_form.php:538
+#: contact_form.php:558
+msgid "Email Address:"
+msgstr "ई - मेल पता:"
+
+#: contact_form.php:149
+#: contact_form.php:539
+#: contact_form.php:559
+msgid "Phone number:"
+msgstr ""
+
+#: contact_form.php:150
+#: contact_form.php:540
+#: contact_form.php:560
+msgid "Subject:"
+msgstr "विषय:"
+
+#: contact_form.php:151
+#: contact_form.php:541
+#: contact_form.php:561
+msgid "Message:"
+msgstr "संदेश:"
+
+#: contact_form.php:152
+#: contact_form.php:542
+#: contact_form.php:562
+msgid "Attachment:"
+msgstr "लगाव:"
+
+#: contact_form.php:153
+#: contact_form.php:543
+#: contact_form.php:563
+msgid "Submit"
+msgstr "सबमिट"
+
+#: contact_form.php:154
+msgid "Your name is required."
+msgstr "आपका नाम की आवश्यकता है."
+
+#: contact_form.php:155
+msgid "A proper e-mail address is required."
+msgstr "एक उचित ई - मेल पते की आवश्यकता है."
+
+#: contact_form.php:156
+msgid "Subject is required."
+msgstr "विषय पाठ की आवश्यकता होती है"
+
+#: contact_form.php:157
+msgid "Message text is required."
+msgstr "संदेश पाठ की आवश्यकता है."
+
+#: contact_form.php:158
+#, fuzzy
+msgid "Phone number is required."
+msgstr "आपका नाम की आवश्यकता है."
+
+#: contact_form.php:159
+msgid "File format is not valid."
+msgstr "अटैचमेंट टूटा ."
+
+#: contact_form.php:160
+msgid "Please fill out the CAPTCHA."
+msgstr "कॅप्चा पूरा करें."
+
+#: contact_form.php:161
+msgid "Please make corrections below and try again."
+msgstr "सुधार नीचे बनाने के लिए और फिर प्रयास करें"
+
+#: contact_form.php:163
+msgid "Thank you for contacting us."
+msgstr "हमसे संपर्क करने के लिए धन्यवाद.हमसे संपर्क करने के लिए धन्यवाद."
+
+#: contact_form.php:358
+msgid "If the 'Redirect to page' option is selected then the URL field should be in the following format"
+msgstr ""
+
+#: contact_form.php:367
+msgid "Such user does not exist. Settings are not saved."
+msgstr "इस तरह के उपयोगकर्ता मौजूद नहीं है. सेटिंग्स सहेजे नहीं जाते हैं."
+
+#: contact_form.php:372
+msgid "Please enter a valid email address. Settings are not saved."
+msgstr "कृपया सही ईमेल इनपुट करे  . सेटिंग्स सहेजे नहीं जाते हैं."
+
+#: contact_form.php:378
+#, fuzzy
+msgid "Please enter a valid email address in the 'FROM' field. Settings are not saved."
+msgstr "कृपया सही ईमेल इनपुट करे  . सेटिंग्स सहेजे नहीं जाते हैं."
+
+#: contact_form.php:383
+msgid "Options saved."
+msgstr "विकल्प बचाया."
+
+#: contact_form.php:408
+msgid "If you would like to add the Contact Form to your website, just copy and paste this shortcode to your post or page or widget:"
+msgstr "यदि आप अपनी वेबसाइट पर एक संपर्क फ़ॉर्म को जोड़ना चाहते हैं, बस कॉपी और अपनी पोस्ट या पृष्ठ या विजेट पर यह लघुकोडः को रखा:"
+
+#: contact_form.php:409
+msgid "If you leave the fields empty, the messages will be sent to the email address specified during registration."
+msgstr "यदि नीचे दी गई फ़ील्ड्स में जानकारी खाली रहे हैं तो जो पंजीकरण के दौरान निर्दिष्ट किया गया था एक पता करने के लिए संदेश भेजने के लिए किया जाएगा."
+
+#: contact_form.php:413
+msgid "The user's email address:"
+msgstr "WordPress के उपयोगकर्ता का ईमेल का उपयोग करें:"
+
+#: contact_form.php:417
+msgid "Create a username"
+msgstr "उपयोगकर्ता नाम का चयन करें"
+
+#: contact_form.php:422
+msgid "Enter a username of the person who should get the messages from the contact form."
+msgstr "उपयोगकर्ता का नाम है जो एक संपर्क फ़ॉर्म से संदेश मिल जाएगा"
+
+#: contact_form.php:426
+msgid "Use this email address:"
+msgstr "इस ईमेल का उपयोग करें:"
+
+#: contact_form.php:429
+msgid "Enter the email address you want the messages forwarded to."
+msgstr "एक ईमेल पता है जो संदेश प्राप्त करने के लिए इस्तेमाल किया जाएगा "
+
+#: contact_form.php:433
+msgid "Additional options"
+msgstr "अतिरिक्त विकल्प"
+
+#: contact_form.php:436
+msgid "Display Attachment block"
+msgstr "अटैचमेंट ब्लॉक प्रदर्शित करें"
+
+#: contact_form.php:438
+msgid "Users can attach the following file formats"
+msgstr "उपयोगकर्ताओं को निम्नलिखित प्रकार की फ़ाइलों को संलग्न कर सकते हैं"
+
+#: contact_form.php:442
+#, fuzzy
+msgid "Display Attachment tips"
+msgstr "अटैचमेंट ब्लॉक प्रदर्शित करें"
+
+#: contact_form.php:444
+#, fuzzy
+msgid "Display tips below the Attachment block"
+msgstr "अटैचमेंट ब्लॉक प्रदर्शित करें"
+
+#: contact_form.php:448
+msgid "Display Send me a copy block"
+msgstr "मुझे एक प्रति ब्लॉक भेजें प्रदर्शित करें"
+
+#: contact_form.php:454
+msgid "What to use?"
+msgstr "किस का उपयोग करें?."
+
+#: contact_form.php:457
+msgid "Wp-mail"
+msgstr "Wp-mail"
+
+#: contact_form.php:458
+msgid "You can use the wp_mail function for mailing"
+msgstr "मेल भेजने के लिए आपको WordPress के wp_mail समारोह का उपयोग कर सकते हैं"
+
+#: contact_form.php:464
+msgid "Mail"
+msgstr "मेल"
+
+#: contact_form.php:465
+msgid "To send mail you can use the php mail function"
+msgstr "मेल भेजने के लिए आपको php मेल समारोह का उपयोग कर सकते हैं"
+
+#: contact_form.php:469
+#, fuzzy
+msgid "Change text of the 'FROM' field"
+msgstr "संपर्क प्रपत्र की फ़ील्ड्स से बदलें"
+
+#: contact_form.php:475
+msgid "Enter the email address in the 'From' field"
+msgstr ""
+
+#: contact_form.php:477
+msgid "The email address of the user who fills the form is going to be used in the field 'From'."
+msgstr ""
+
+#: contact_form.php:479
+msgid "This email address will be used in the 'From' field."
+msgstr ""
+
+#: contact_form.php:483
+msgid "Display phone field"
+msgstr ""
+
+#: contact_form.php:489
+msgid "Required fields"
+msgstr ""
+
+#: contact_form.php:491
+#: contact_form.php:955
+msgid "Name"
+msgstr "नाम"
+
+#: contact_form.php:492
+#, fuzzy
+msgid "E-Mail Address"
+msgstr "ई - मेल पता:"
+
+#: contact_form.php:493
+#: contact_form.php:963
+msgid "Phone"
+msgstr ""
+
+#: contact_form.php:494
+#: contact_form.php:966
+msgid "Subject"
+msgstr "विषय"
+
+#: contact_form.php:495
+#: contact_form.php:969
+msgid "Message"
+msgstr "संदेश"
+
+#: contact_form.php:499
+msgid "Display additional info in email"
+msgstr "ईमेल में अतिरिक्त जानकारी प्रदर्शित करें"
+
+#: contact_form.php:504
+#: contact_form.php:927
+msgid "Sent from (ip address)"
+msgstr "(आईपी पते से भेजा गया)"
+
+#: contact_form.php:505
+#: contact_form.php:932
+msgid "Date/Time"
+msgstr "दिनांक / समय"
+
+#: contact_form.php:506
+#: contact_form.php:937
+msgid "Sent from (referer)"
+msgstr "से आ रहा है (referer)"
+
+#: contact_form.php:507
+#: contact_form.php:942
+msgid "Using (user agent)"
+msgstr "उपयोग करना (प्रयोक्ता एजेंट)"
+
+#: contact_form.php:511
+msgid "Language settings for the field names in the form"
+msgstr ""
+
+#: contact_form.php:520
+msgid "Add language"
+msgstr ""
+
+#: contact_form.php:524
+#, fuzzy
+msgid "Change the names of the contact form fields and error messages"
+msgstr "संपर्क प्रपत्र का फ़ील्ड्स के लिए लेबल बदलें"
+
+#: contact_form.php:529
+#: contact_form.php:582
+msgid "English"
+msgstr ""
+
+#: contact_form.php:544
+#: contact_form.php:564
+msgid "Error message for the Name field"
+msgstr ""
+
+#: contact_form.php:545
+#: contact_form.php:565
+msgid "Error message for the Email field"
+msgstr ""
+
+#: contact_form.php:546
+#: contact_form.php:566
+msgid "Error message for the Phone field"
+msgstr ""
+
+#: contact_form.php:547
+#: contact_form.php:567
+msgid "Error message for the Subject field"
+msgstr ""
+
+#: contact_form.php:548
+#: contact_form.php:568
+msgid "Error message for the Message field"
+msgstr ""
+
+#: contact_form.php:549
+#: contact_form.php:569
+msgid "Error message for the Attachment field"
+msgstr ""
+
+#: contact_form.php:550
+#: contact_form.php:570
+msgid "Error message for the Captcha field"
+msgstr ""
+
+#: contact_form.php:551
+#: contact_form.php:571
+msgid "Error message for the whole form"
+msgstr ""
+
+#: contact_form.php:552
+#: contact_form.php:572
+#: contact_form.php:591
+#: contact_form.php:597
+msgid "Use shortcode"
+msgstr ""
+
+#: contact_form.php:552
+#: contact_form.php:572
+#: contact_form.php:591
+#: contact_form.php:597
+msgid "for this language"
+msgstr ""
+
+#: contact_form.php:579
+msgid "Action after email is sent"
+msgstr ""
+
+#: contact_form.php:581
+#, fuzzy
+msgid "Display text"
+msgstr "अटैचमेंट ब्लॉक प्रदर्शित करें"
+
+#: contact_form.php:590
+#: contact_form.php:596
+msgid "Text"
+msgstr ""
+
+#: contact_form.php:603
+msgid "Redirect to the page"
+msgstr ""
+
+#: contact_form.php:604
+msgid "Url"
+msgstr ""
+
+#: contact_form.php:609
+msgid "Save Changes"
+msgstr "परिवर्तन सहेजें"
+
+#: contact_form.php:648
+msgid "Sorry, email message could not be delivered."
+msgstr "क्षमा करें, आपका ई - मेल वितरित नहीं किया जा सकता है."
+
+#: contact_form.php:718
+msgid "You can attach the following file formats"
+msgstr "आप निम्न प्रकार का फ़ाइलों को संलग्न कर सकते हैं"
+
+#: contact_form.php:726
+msgid "Send me a copy"
+msgstr "मुझे एक प्रतिलिपि भेजें"
+
+#: contact_form.php:950
+msgid "Contact from"
+msgstr "संपर्क करें"
+
+#: contact_form.php:958
+msgid "Email"
+msgstr "ईमेल"
+
+#: contact_form.php:972
+msgid "Site"
+msgstr "साइट"
+
+#: contact_form.php:1023
+msgid "If you can see this MIME, it means that the MIME type is not supported by your email client!"
+msgstr "यदि आप अपने ग्राहक की तुलना में इस माइम देख सकते हैं MIME प्रकार स्वीकार नहीं करता है!"
+
+#: contact_form.php:1076
+msgid "FAQ"
+msgstr "अक्सर पूछे जाने वाले प्रश्न"
+
+#: contact_form.php:1077
+msgid "Support"
+msgstr "समर्थन"
+
+#: contact_form.php:1123
+msgid "Are you sure that you want to delete this language data?"
+msgstr ""
+
+#~ msgid "E-Mail Addresse:"
+#~ msgstr "Indirizzo e-mail:"
+#~ msgid "Install Now"
+#~ msgstr "Installa Ora"
+#~ msgid "BWS Plugins"
+#~ msgstr "BWS Plugins"
+
