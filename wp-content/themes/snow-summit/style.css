@@ -1366,7 +1366,7 @@ clear:both;
 	width:930px;
 	margin: 0 auto;
 	padding:5px;
-    background: #f9f9f9 url(images/hsearch-wh.png) repeat-x;
+  /*  background: #f9f9f9 url(images/hsearch-wh.png) repeat-x;*/
 
 }
 
@@ -1413,7 +1413,7 @@ border-radius: 6px 6px 6px 6px;}
     color: #000000;
 }
 .infobox h3 {
-    background: #f9f9f9 url(images/hsearch-wh.png) repeat-x;
+ /*   background: #f9f9f9 url(images/hsearch-wh.png) repeat-x;*/
     color: #000000;
     margin: 5px 0 0 0;
     font-size:14px;
