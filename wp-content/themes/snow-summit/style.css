@@ -452,11 +452,12 @@ div.menu li {
 	position: relative;
 }
 #access a {
-	color: #000;
+	color: red;
 	display: block;
 	line-height: 38px;
 	padding: 0 10px;
 	text-decoration: none;
+	font-size:16px
 }
 #access ul ul {
 	box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
@@ -478,7 +479,7 @@ div.menu li {
 	top: 0;
 }
 #access ul ul a {
-	background: #ddd;
+	background: yellow;
 	line-height: 1em;
 	padding: 10px;
 	width: 160px;
@@ -982,7 +983,7 @@ img.aligncenter {
 	margin: 0;
 }
 
-.widget-area ul ul li {border-bottom:1px dotted #dddddd;margin:0 0 1px 0px;	padding:5px 0 5px 15px;}
+.widget-area ul ul li {border-bottom:1px solid red;margin:0 0 1px 0px;	padding:5px 0 5px 15px;}
 
 .widget-area ul ul li.categories {background:none;}
 
@@ -1181,11 +1182,11 @@ font-size:12px;
 	margin: 0;
 }
 #colophon {
-	border-top:4px solid #D4D4D4;
+	border-top:4px solid red;
 	clear: both;
 	color: #444444;
 	font-size: 12px;
-	font-style: italic;
+	/*font-style: italic;*/
 	line-height: 16px;
 	padding: 1.6em 0 0;
 }
@@ -1407,14 +1408,14 @@ border-radius: 6px 6px 6px 6px;}
 
 
 .infobox {
-    background:#f9f9f9 url(images/hbg.png) repeat-x;
+    background:white url(images/hbg.png) repeat-x;
     padding:5px;
     margin:10px 0 10px 0;
     color: #000000;
 }
 .infobox h3 {
  /*   background: #f9f9f9 url(images/hsearch-wh.png) repeat-x;*/
-    color: #000000;
+    color: yellow;
     margin: 5px 0 0 0;
     font-size:14px;
     font-weight: normal;

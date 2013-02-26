@@ -104,5 +104,6 @@ Template Name: Gallery Template
 					<?php } ?>
 		</div>
 	</div>
+
 <?php get_sidebar(); ?>
 <?php get_footer(); ?>

@@ -23,7 +23,7 @@
 		<?php get_sidebar( 'footer' ); ?>
 
 		<div id="colophon">
-			<?php printf( __( '%1$s by %2$s' ), 'Snow Summit', '<a href="http://weddingthemes.marriagescene.com/wedding-themes/snow-summit/">weddingthemes.marriagescene</a>' ); ?> <span class="generator-link"><a href="<?php echo esc_url( __( 'http://wordpress.org/', 'snowsummit' ) ); ?>" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'snowsummit' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s.', 'snowsummit' ), 'WordPress' ); ?></a></span>
+			 <span class="generator-link"><a href="<?php echo esc_url( __( 'http://ilogic.mk/', 'snowsummit' ) ); ?>" title="<?php esc_attr_e( 'www.ilogic.mk', 'snowsummit' ); ?>" rel="generator"><?php printf( __( 'Design and functionality by %s', 'snowsummit' ), 'iLogic' ); ?></a></span>
 		</div><!-- #colophon -->
 	</div><!-- #footer -->
 

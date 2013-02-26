@@ -91,6 +91,7 @@
 	<script type="text/javascript">
 		(function($){
 			$(document).ready(function(){
+			debugger;
 				$("a[rel=gallery_fancybox]").fancybox({
 					'transitionIn'		: 'elastic',
 					'transitionOut'		: 'elastic',

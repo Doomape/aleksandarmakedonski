@@ -140,7 +140,7 @@ fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="fb-like-box" data-href="{$strURl}" data-width="{$intWidth}" data-height="{$intHeight}" data-show-faces="{$arrOptions['face']}" data-stream="{$arrOptions['stream']}" data-header="{$arrOptions['header']}" data-colorscheme="{$arrOptions['color']}"> </div>
-<div style="margin: 0px; padding: 0px; font-size: 8px; color: #ccc;"><a "color: #ccc;" href="http://www.dakola.com/">{$strProvided}</a> <a style="display:none;" href="{$strPRLink}">{$strPRText}</a></div>
+
 <!-- version: {$strVesrsion} -->
 EOT;
 
