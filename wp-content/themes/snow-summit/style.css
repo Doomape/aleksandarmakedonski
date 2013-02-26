@@ -69,14 +69,15 @@ a img {
 body {
 	padding: 0 3.8%;
 }
-#outerwrap {width:980px;margin:0 auto 20px auto;}
+#outerwrap {width:980px;margin:0 auto 0 auto;}
 #wrapper {
 	margin: 0 auto;
 	width: 940px;
+	box-shadow: 1px 1px 50px yellow;
 }
 #wrapper {
 	background: #fff;
-	margin-top: 20px;
+	/*margin-top: 20px;*/
 	padding: 0 20px;
 }
 #header {
@@ -1182,13 +1183,13 @@ font-size:12px;
 	margin: 0;
 }
 #colophon {
-	border-top:4px solid red;
+	border-top:3px solid red;
 	clear: both;
 	color: #444444;
 	font-size: 12px;
 	/*font-style: italic;*/
 	line-height: 16px;
-	padding: 1.6em 0 0;
+	padding: 6px 0 12px;
 }
 #colophon a {
 	color: #444444;
