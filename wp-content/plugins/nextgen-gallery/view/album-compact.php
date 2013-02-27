@@ -38,5 +38,25 @@ Follow variables are useable :
 	<!-- Pagination -->
  	<?php echo $pagination ?>
 </div>
-
+<script>
+jQuery(window).load(function() {
+	debugger;
+	var all_links=jQuery('a.ngg-album-desc');
+	for(i=0;i<all_links.length;i++){
+		if(jQuery(all_links[i]).attr('href').indexOf("lang")==-1){
+		var attr= window.location.href.split('lang')[1];
+		if(attr!=undefined)
+			jQuery(all_links[i]).attr("href", jQuery(all_links[i]).attr('href')+"&"+"lang"+window.location.href.split('lang')[1]);
+		}
+	}
+	var all_images=jQuery('.ngg-album-link>a');
+	for(i=0;i<all_images.length;i++){
+		if(jQuery(all_images[i]).attr('href').indexOf("lang")==-1){
+		var attr= window.location.href.split('lang')[1];
+		if(attr!=undefined)
+			jQuery(all_images[i]).attr("href", jQuery(all_images[i]).attr('href')+"&"+"lang"+window.location.href.split('lang')[1]);
+		}
+	}
+});
+</script>
 <?php endif; ?>
