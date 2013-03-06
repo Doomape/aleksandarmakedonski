@@ -73,7 +73,7 @@ body {
 #wrapper {
 	margin: 0 auto;
 	width: 940px;
-	box-shadow: 1px 1px 50px yellow;
+	box-shadow: 1px 1px 200px black;
 }
 #wrapper {
 	background: #fff;
@@ -435,6 +435,7 @@ h1 a:hover, h2 a:hover, h3 a:hover {
 	float: left;
 	margin: 0 auto;
 	width: 940px;
+	border-bottom: 1px dashed red;
 }
 #access .menu-header,
 div.menu {
@@ -451,14 +452,15 @@ div.menu ul {
 div.menu li {
 	float: left;
 	position: relative;
+	border-right: 1px red solid;
 }
 #access a {
-	color: red;
+	color: black;
 	display: block;
 	line-height: 38px;
 	padding: 0 10px;
 	text-decoration: none;
-	font-size:16px
+	font-size:18px
 }
 #access ul ul {
 	box-shadow: 0px 3px 3px rgba(0,0,0,0.2);
@@ -474,22 +476,24 @@ div.menu li {
 }
 #access ul ul li {
 	min-width: 180px;
+	border-right:none;
 }
 #access ul ul ul {
 	left: 100%;
 	top: 0;
 }
 #access ul ul a {
-	background: yellow;
+	background: white;
 	line-height: 1em;
 	padding: 10px;
 	width: 160px;
 	height: auto;
+	font-size:15px;
 }
 #access li:hover > a,
 #access ul ul :hover > a {
 	background: red;
-	color: yellow;
+	color: white;
 }
 #access ul li:hover > ul {
 	display: block;
@@ -541,7 +545,7 @@ div.menu ul {
 div.menu li {
 	float: left;
 	position: relative;
-	margin-right:15px;
+	margin-right:0px;//15px
 }
 #topnav a {
 	color: #666666;
@@ -984,7 +988,7 @@ img.aligncenter {
 	margin: 0;
 }
 
-.widget-area ul ul li {/*border-bottom:1px solid red;*/margin:0 0 1px 0px;	padding:5px 0 5px 15px;}
+.widget-area ul ul li {/*border-bottom:1px solid red;*/margin:0 0 1px 0px;	padding:5px 0 5px 15px;border-bottom: 1px black solid;}
 
 .widget-area ul ul li.categories {background:none;}
 
@@ -1410,20 +1414,24 @@ border-radius: 6px 6px 6px 6px;}
 
 .infobox {
    /* background:white url(images/hbg.png) repeat-x;*/
-	 background:white url(images/hbg.png) repeat-x 0px -8px;
-    padding:5px;
+	/* background:white url(images/hbg.png) repeat-x 0px -8px;*/
+   /* padding:5px;*/
   /*  margin:10px 0 10px 0;*/
 	margin:0px 0 10px 0;
     color: #000000;
 }
 .infobox h3 {
  /*   background: #f9f9f9 url(images/hsearch-wh.png) repeat-x;*/
-    color: yellow;
+    color: white;
   /* margin: 5px 0 0 0;*/ 
-	margin: -2px 0 0 0;
-    font-size:14px;
+	margin: -3px 0 1px 0;
+    font-size:16px;
     font-weight: normal;
     padding:10px;
+	text-align: center;
+	font-weight: bold;
+	letter-spacing: 1px;
+	background: red;
 }
 
 
